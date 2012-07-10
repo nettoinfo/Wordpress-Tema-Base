@@ -12,7 +12,7 @@
  * PHP version 5
  *
  * @category Base
- * @package  Wordpress_Tema_Base
+ * @package  WPTemaBase
  * @author   Wordpress Tema Base <username@domain.com>
  * @license  GPL-2 http://www.gnu.org/licenses/gpl-2.0.html
  * @link     https://github.com/sergiovilar/Wordpress-Tema-Base/
