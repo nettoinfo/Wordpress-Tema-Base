@@ -260,7 +260,7 @@ img[class*="attachment-"] {
 }
 img.size-full,
 img.size-large {
-    max-width: 97.5%; /* Evita que a imagem passe a area total reservada para o post */
+    max-width: 97.5%; /* Evita que a imagem passe a area total reservada */
     width: auto; /* Evita problemas de alongamento da imagem no IE8 */
     height: auto; /* Faz altura e largura serem dimensionadas corretamente */
 }
