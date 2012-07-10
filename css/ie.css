@@ -1,0 +1,11 @@
+/*
+IE Hacks
+*/
+
+/* =Micro Clear fix by Nicolas Gallagher of IE
+http://nicolasgallagher.com/micro-clearfix-hack/
+-------------------------------------------------------------- */
+
+.cf {
+    *zoom: 1;
+}
